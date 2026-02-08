@@ -17,14 +17,15 @@ Spring 2026, [Course Website](https://sites.google.com/site/biplavsrivastava/tea
 _Upon course completion_
    
 ## Select projects from previous courses that students agreed to make public
-1. Student attendance system - using paper-based checkin to analyze attendance. Highlighted efforts by [Suprawee Pongpeeradech](https://github.com/tysuprawee/AIAttendance-csce580fall2025/blob/main/report.md), [Yamuna Bobbala](https://github.com/Ybobbala/AIAttendance-csce580fall2025/blob/main/code/AIAttendance.ipynb), and [Eli Hatcher](https://github.com/elijahleo/AIAttendance-csce580fall2025/), 2025. Using fire department data, weather and traffic to forecast weekly demand, by S. Teja Palladi ([Demo app](https://drive.google.com/file/d/1mCFyvS4fP_xXq0FLxAc8Q23kzR_l_YOf/view?usp=sharing), 2025). 
-2. [Predictive Classification of Aircraft Approach Behaviors](https://github.com/osterholt/PCAAB), by Cam Osterholt (2025)
-3. [ReviewTrust: Scoring Trust in Online Product Reviews](https://github.com/adeldghimfr/Project_Review_Trust_Score), by Adel Dghim (2025)
-4. [Braille Optical Character Recognition, Within a Chatbot](https://github.com/MatthewADH/BrailleOpticalCharacterRecognition), by Matthew Duffell-Hoffman (2023)
-5. [Video Game Recommendation, Within a Chatbot](https://github.com/mh1300/Game-Recommendation-Automation-Machine), by Matthew Hughes  (2023)
-6. [Water Quality Decision, Within a Chatbot](https://github.com/vnagpal25/Water-Quality-Chatbot), by Vansh Nagpal  (2023)
-7. Explainable predictions of unplanned hospital admission for Diabetes patients -[project](https://github.com/goswamiraxit/TrustedAI/tree/main/Course_Project), by Raxitkumar Vishnupuri  (2021)
-8. Algal Bloom Detection for Florida - [report](https://github.com/fkirmani/csce590-001/blob/main/Project/report/FawadKirmani%20-%20CSCE590-1%20Course%20Project%20Report.pdf), [code](https://github.com/fkirmani/csce590-001/tree/main/Project), Fawad Kirmani  (2021)
+1. Student attendance system - using paper-based checkin to analyze attendance. Highlighted efforts by [Suprawee Pongpeeradech](https://github.com/tysuprawee/AIAttendance-csce580fall2025/blob/main/report.md), [Yamuna Bobbala](https://github.com/Ybobbala/AIAttendance-csce580fall2025/blob/main/code/AIAttendance.ipynb), and [Eli Hatcher](https://github.com/elijahleo/AIAttendance-csce580fall2025/), 2025.
+2. Using fire department data, weather and traffic to forecast weekly demand, by S. Teja Palladi ([Demo app](https://drive.google.com/file/d/1mCFyvS4fP_xXq0FLxAc8Q23kzR_l_YOf/view?usp=sharing), 2025). 
+3. [Predictive Classification of Aircraft Approach Behaviors](https://github.com/osterholt/PCAAB), by Cam Osterholt (2025)
+4. [ReviewTrust: Scoring Trust in Online Product Reviews](https://github.com/adeldghimfr/Project_Review_Trust_Score), by Adel Dghim (2025)
+5. [Braille Optical Character Recognition, Within a Chatbot](https://github.com/MatthewADH/BrailleOpticalCharacterRecognition), by Matthew Duffell-Hoffman (2023)
+6. [Video Game Recommendation, Within a Chatbot](https://github.com/mh1300/Game-Recommendation-Automation-Machine), by Matthew Hughes  (2023)
+7. [Water Quality Decision, Within a Chatbot](https://github.com/vnagpal25/Water-Quality-Chatbot), by Vansh Nagpal  (2023)
+8. Explainable predictions of unplanned hospital admission for Diabetes patients -[project](https://github.com/goswamiraxit/TrustedAI/tree/main/Course_Project), by Raxitkumar Vishnupuri  (2021)
+9. Algal Bloom Detection for Florida - [report](https://github.com/fkirmani/csce590-001/blob/main/Project/report/FawadKirmani%20-%20CSCE590-1%20Course%20Project%20Report.pdf), [code](https://github.com/fkirmani/csce590-001/tree/main/Project), Fawad Kirmani  (2021)
 
 
 *Note*: This material is available under [MIT license](https://opensource.org/licenses/MIT).
