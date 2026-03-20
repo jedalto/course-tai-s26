@@ -45,7 +45,8 @@ readings in [AI and NLP](./Readme-AI-NLP.md) and [AI Trust](./Readme-Trust.md) <
 > > 1. [A guide with description about prompting techniques](https://www.promptingguide.ai/introduction)
 > > 2. [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), June 2024 (revised Feb 2025). _A comprehensive survey of prompting approaches across LLM types_.
 > > 3. [Promptify](https://github.com/promptslab/Promptify) - a Python library to automate creating prompts and getting structured results
-> > 4. [AISuite](https://github.com/andrewyng/aisuite) - a Python library providing interface to multiple LLMs for prompting and getting responses
+> > 4. [DSPy](https://dspy.ai/) - a Python library to program for creating prompts and verifying results. Supports (declarative) programming with results.
+> > 5. [AISuite](https://github.com/andrewyng/aisuite) - a Python library providing interface to multiple LLMs for prompting and getting responses
 
 > c. Programmatically using LLMs
 > > 1. [Ollama library](https://github.com/ollama/ollama). Using it for [tool calling](https://www.ibm.com/think/tutorials/local-tool-calling-ollama-granite) - illustrated with Granite.
