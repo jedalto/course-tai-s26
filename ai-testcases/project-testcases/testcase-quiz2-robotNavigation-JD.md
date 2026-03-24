@@ -1,26 +1,27 @@
-# AI Testcase (TC) Template
-_ // This file has a template for recording testcases for chatbots_
+# AI Testcase (TC) For Robot Navigation
 
 ### 1. TC-identifier: 
-_ // Identifier for the test case._
+TC-RN-01
 
 ### 2. TC-name: 
-_ // Name for the test case._
+Battery at 0%
 
 ### 3. TC-objective: 
-_ // Describe what we are trying to evaluate from the test case._
+Test AI behavior when the batter is completely drained during or even at the start of navigation.
 
 ### 4. TC-input: 
-_ // The input to be given_
+battery_level: 0.0
+...
 
 ### 5. TC-reference-output: 
-_ // The output to be used as reference to compare and evaluate AI._
+Cannot mark it as a successful run, but there also were no collisions. Possibly, don't count any data with 0 battery, but can use the run leading up to the dead battery.
 
 ### 6. TC-harm-risk-info: 
-_ // Risk information that the test case may be associated with. Also mention harm categories from the book: HC1-incorrect-info, HC2-opinion-manipulation, HC3-unstable-extrauserinfo, HC4-incomprehensible-ai. Or, use HC5 for others. _
+_ // Risk information that the test case may be associated with. Also mention harm categories from the book: HC1-incorrect-info
+No way of knowing if there was a collision or not. Simply cannot give a definite result.
 
 ### 7. TC-other-info: 
-_ // Any other information to be recorded. _
+...
 
 
 ----
